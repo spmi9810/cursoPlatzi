@@ -9,5 +9,6 @@ Esto es una lista:
 * Item 3
 * Un aviso random
 * Otro aviso random pero con más texto
+* Disponible
 
 Mas texto pero con alguna palabra en **negritas**. Bla bla bla. Mucho texto (me falta agregar links pero el del curso hizo trampa y usó un editor visual en línea todo bonito que le puso todos los estilos 🙄) [**link**](https://www.google.com) **ya descubrí como se ponen**
